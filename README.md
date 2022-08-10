@@ -7,16 +7,16 @@ The main purpose of this project is to determine the number of retiring employee
 
 # Results
 
-* Expecting 133,776 employees, who were born bettwen 1952-01-01 and 1955-12-31, are going to retire.
+* The company is expecting 133,776 employees, who were born bettwen 1952-01-01 and 1955-12-31, to retire.
 ![image](https://user-images.githubusercontent.com/105985796/180588856-2406e490-93ff-46c5-b7f9-699813340951.png)
 
-* Creating another table in order to avoid duplication of those employees that have already left the company. As a result, the number of expecting employees decreased 133,776 to 90,398.
+* The number of expecting employees decreased 133,776 to 90,398 based on the data collected below.
 ![image](https://user-images.githubusercontent.com/105985796/180589094-d232cb76-8db7-4f98-9c4a-d17cb60c7067.png)
 
 * Calculating soon-to-retire employees' job titles.
 ![image](https://user-images.githubusercontent.com/105985796/180589407-c5f01c61-5ca3-483f-805a-2e9afa247f8a.png)
 
-* finding a result that the number of 1,549 employess with mentorship_eligibility, who were born bettwen 1965-01-01 and 1965-12-31.
+* Results of 1,549 employess with mentorship_eligibility, who were born bettwen 1965-01-01 and 1965-12-31.
 ![image](https://user-images.githubusercontent.com/105985796/180589550-36acc586-3921-4538-ad80-128ebc7495f9.png)
 
 # Summary
