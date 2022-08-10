@@ -1,10 +1,9 @@
 # Pewlett-Hackard-Analysis
 
-# Overview of the analysis:
+# Project Overview
 
-* Determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
-* Using the ERD I created in this module as a reference and my knowledge of SQL queries, create a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database. 
-* Using the ERD I created in this module as a reference and my knowledge of SQL queries, create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+The main purpose of this project is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
+
 
 # Results
 
@@ -21,10 +20,4 @@
 ![image](https://user-images.githubusercontent.com/105985796/180589550-36acc586-3921-4538-ad80-128ebc7495f9.png)
 
 # Summary
-Pros and Cons
-Pros
-* Pewlett-Hackard has 1,549 employess with mentorship_eligibility that is most important for the success of the company because It is important for employees with mentorship_eligibility to be good mentors to their new employees because effective mentorship can help improve new employees' work performance.
-
-Cons
-* Pewlett-Hackard is expecting 90,398 employees, who were born bettwen 1952-01-01 and 1955-12-31, are going to retire. The company is going to need to replace 90.398 roles within the company.
-
+The main purpose of this project is to determine the number of retiring employees per title, and identify employees eligible to participate in a mentorship program using ERD to create references and create a Retirement Titles table that holds all the titles of employees born between January 1, 1952, December 31, 1955, because some employees may have multiple titles in the database. Then, using ERD and SQL,  as a reference to create a mentorship-eligibility table that holds the current employees born between January 1, 1965, and December 31, 1965.
